@@ -1,0 +1,13 @@
+{
+  "name": "retext-modules",
+  "version": "1.0.0",
+  "description": "Simple search and replace from JSON.",
+  "dependencies": {
+    "nlcst-search": "^1.0.0",
+    "nlcst-to-string": "^2.0.0",
+    "unist-util-position": "^3.0.0"
+  },
+  "files": [
+    "index.js"
+  ]
+}
